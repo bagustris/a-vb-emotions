@@ -1,0 +1,21 @@
+liac-arff
+librosa >= 0.8.1
+matplotlib
+numpy
+pip
+pandas >= 1.4.0
+pytorch-lightning
+ray
+scikit-learn
+scipy
+seaborn
+tabulate
+tensorboard
+tensorboardx
+torch
+torch-tb-profiler
+torchaudio
+tqdm
+transformers
+pytorch-model-summary
+pynvml
