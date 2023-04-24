@@ -13,7 +13,7 @@ Runs on Python >=3.9.
 We recommend using conda to install the dependencies. 
 
 Required packages:
-
+```
 liac-arff
 librosa >= 0.8.1
 matplotlib
@@ -35,6 +35,7 @@ tqdm
 transformers
 pytorch-model-summary
 pynvml
+```
 
 Also, you will need to install the End2You toolkit https://github.com/end2you/end2you. 
 
