@@ -4,7 +4,7 @@ This repo contains code to reproduce our contribution for the ACII A-VB 2022 Com
 
 https://www.competitions.hume.ai/avb2022
 
-We address all 4 tasks of the competition with a multi-task learning approach based on loss balanding and using SSL audio models as shared feature extractors.
+We address all 4 tasks of the competition with a multi-task learning approach based on loss balancing and using SSL audio models as shared feature extractors.
 
 ## Installation
 
@@ -36,6 +36,8 @@ transformers
 pytorch-model-summary
 pynvml
 ```
+
+Use `pip install -r requirements.txt` to install these packages.
 
 Also, you will need to install the End2You toolkit https://github.com/end2you/end2you. 
 
